@@ -1,0 +1,16 @@
+package com.centurylink.test;
+/**
+ * @author sxchat6
+ *
+ */
+public class TestClass {
+
+	/**
+	 * @param args
+	 */
+	public static void main(String[] args) {
+		System.out.println("TestProject");
+
+	}
+
+}
